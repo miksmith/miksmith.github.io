@@ -1,0 +1,31 @@
+
+
+.blue {
+    color:blue;
+}
+#purple { 
+    color:purple;
+}
+.red {
+    color:red;
+}
+
+.alignleft{
+    text-align: left;
+}
+
+.aligncenter{
+    text-align: center;
+}
+
+.alignright{
+    text-align: right;
+}
+
+.white{
+    color: white;
+}
+
+.blackBackground{
+    background-color: black;
+}
